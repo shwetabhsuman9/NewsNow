@@ -5,7 +5,9 @@ This Application is made using Kotlin Programming Language.
 
 API Documentation:-
 BASE_URL = "https://saurav.tech/NewsAPI/"
+
 top_headlines_api = "<BASE_URL>/top-headlines/category/<category>/<country_code>.json"
+
 everything_api = "<BASE_URL>/everything/<source_id>.json"
 
 RecyclerView is used to display news in list form(vertically)
